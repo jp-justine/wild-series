@@ -1,9 +1,11 @@
 
-$primary: #0074d9;
+$primary: #2c4454
+;
 $danger: #ff4136;
 
 @import "~bootstrap/scss/bootstrap";
 
 body {
-    background-color: lightblue;
+    background-color: #2c4454;
+    color: black;
 }
